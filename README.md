@@ -1,6 +1,18 @@
 # All-project-list
 
 Laravel Projects
+1. Point of Sale(POS)
+   Link: https://github.com/masterArnob/point-of-sale-system
+2. Laravel AI Chatbot
+   Link: https://github.com/masterArnob/laravel-ai-chatbot
+3. Learning Management System (LMS)
+   Link: https://github.com/masterArnob/LMS
+4. Multi Vendor Ecommerce Website
+   Link: https://github.com/masterArnob/Multi-Vendor-Ecommerce-Website-Using-Laravel-12
+5. Inventory Management System (IMS)
+   Link: https://github.com/masterArnob/e5
+6. Southeast University IEEE Student branch Website
+   Link: https://github.com/masterArnob/SEU-IEEE-SB
 
 Data Analyst Projects
 
@@ -32,3 +44,9 @@ Computer Netwoeking
 Linux
 
 Java Projects
+
+
+Git and Github
+
+
+Micro Procssor
