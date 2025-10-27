@@ -1,7 +1,6 @@
-# 🚀 All Project Repositories
+# 🚀 All Project Repositories List
 
 Welcome to my complete collection of projects — spanning **Web Development (Laravel & Java)**, **AI & Data Analysis**, **IoT (Arduino)**, and **System-level Programming**.  
-Each project demonstrates hands-on learning, implementation, and practical problem-solving.
 
 ---
 
