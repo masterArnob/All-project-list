@@ -59,16 +59,41 @@ AI Projects
     Link: https://github.com/masterArnob/IBM-Machine-Learning-with-Python/blob/main/SVM/Credit%20Card%20Fraud%20Detection%20Using%20SVM%20and%20Decision%20Tree.ipynb
 
 Ardunio Project
+1. Working with all the sensors
+   Link: https://github.com/masterArnob/Embedded-System-Ardunio
+2. Smart Plant Watering System
+   Link: https://github.com/masterArnob/Smart-Plant-Watering-System-Using-Ardunio
+   
 
 
 Computer Netwoeking
+1. evrything in Two repo
+   repo 1 Link: https://github.com/masterArnob/Computer-Networking
+   repo 2 Link: https://github.com/masterArnob/Networking-Cisco-Packet-Tracer
+   
+   
 
 Linux
+1. all linux commands
+   Link: https://github.com/masterArnob/Linux-Commands
+   
 
 Java Projects
+1. Resturant Management System
+   Link: https://github.com/masterArnob/Restaurant-Management-System
+2. Gym Management System
+   Link: https://github.com/masterArnob/Gym-Management-System
+3. Employee Management System
+   Link: https://github.com/masterArnob/Employee_Management_System
 
 
 Git and Github
+1. All the commndas
+   Link: https://github.com/masterArnob/Git-Upload-and-Update-commands
+
+Docker
 
 
 Micro Procssor
+1. All in one repo
+   Link: https://github.com/masterArnob/Microprocessor-Assembly-Code
