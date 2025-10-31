@@ -34,7 +34,8 @@
 ## 🤖 Artificial Intelligence Projects
 | Project | Link |
 |----------|------|
-| 🎬 Movie Recommender System | [🔗 View Repo](https://github.com/masterArnob/Movie-Recommender-System) |
+| 🎬 Collaborative Filtering Recommender System | [🔗 View Repo](https://github.com/masterArnob/Movie-Recommender-System) |
+| 🎬 Content Based Recommender System | [🔗 View Repo](https://github.com/masterArnob/Movie-Recommender-System) |
 | 🌧️ Australian Rainfall Prediction | [🔗 View Repo](https://github.com/masterArnob/Australian-Rain-Fall-Analysis-and-Prediction-using-Machine-Learning) |
 | 💊 Medicine Prediction | [🔗 View Notebook](https://github.com/masterArnob/IBM-Machine-Learning-with-Python/blob/main/Decision%20Tree/Drug%20Predction%20using%20Decision%20Tree.ipynb) |
 | 📞 Customer Potential Prediction | [🔗 View Notebook](https://github.com/masterArnob/IBM-Machine-Learning-with-Python/blob/main/K%20Nearest%20Neighbour%20KNN/Telephone%20Customer%20Analysis%20using%20KNN.ipynb) |
